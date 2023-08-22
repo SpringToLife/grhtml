@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "grapesjs": "^0.19.5",
+    "grapesjs-aviary": "^0.1.2",
+    "grapesjs-blocks-flexbox": "^1.0.1",
+    "grapesjs-mjml": "^1.0.5",
+    "grapesjs-plugin-forms": "^2.0.6",
+    "grapesjs-preset-webpage": "^1.0.3",
+    "grapesjs-react": "^4.0.1",
+    "grapesjs-tooltip": "^0.1.8",
+    "i": "^0.3.7",
+    "npm": "^9.8.1"
+  },
+  "devDependencies": {
+    "run-script-os": "^1.1.6"
+  }
+}
